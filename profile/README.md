@@ -21,17 +21,29 @@ We aim to bridge theoretical cybersecurity knowledge with practical research thr
 - **Security Engineering** — Malware analysis automation, analytical pipelines, and research tooling.
 - **Applied Research & Education** — Practical cybersecurity experimentation, technical documentation, and knowledge development.
 
-## Research Projects
+## Research Portfolio
 
-Our research repositories cover several areas:
+AMREL's research portfolio is organized around applied cybersecurity research, technical investigation, and open-source development.
 
-| Project | Focus |
-|---|---|
-| RE-01: Comparative Binary Analysis | Binary compilation and reverse engineering |
-| Edge-to-Cloud Malware Analysis | Distributed malware triage architecture |
-| Threat Intelligence Pipeline | Threat intelligence processing and correlation |
+### Research Domains
 
-Explore our repositories for research materials, implementations, experiments, and technical documentation.
+**01. Malware Analysis & Reverse Engineering**
+
+Independent research, binary analysis, malware investigation, and reverse engineering.
+
+**02. Open Source Security**
+
+Contributions to open-source security tools, projects, and technical initiatives.
+
+**03. Cybersecurity Research**
+
+Applied security research, threat intelligence, and technical investigations.
+
+**04. Research & Education**
+
+Technical documentation, knowledge sharing, practical experimentation, and cybersecurity education.
+
+Individual projects and publications are reviewed based on their research contributions, provenance, authorship, and ownership before being formally included in the AMREL research portfolio.
 
 ## Research Philosophy
 
